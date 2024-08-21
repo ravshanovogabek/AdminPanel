@@ -1,0 +1,53 @@
+/* Home.css */
+
+.site-layout-background {
+    background: #001529;
+  }
+  
+  .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+  
+  .ant-layout-sider-dark .ant-menu-dark,
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-sub,
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-sub .ant-menu-item {
+    color: rgba(255, 255, 255, 0.65);
+  }
+  
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-item-selected {
+    background-color: #1890ff;
+  }
+  
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-item-selected a {
+    color: #fff;
+  }
+  
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-item a {
+    color: rgba(255, 255, 255, 0.65);
+  }
+  
+  .ant-layout-sider-dark .ant-menu-dark .ant-menu-item a:hover {
+    color: #fff;
+  }
+  
+  .ant-table-thead > tr > th {
+    background-color: #fafafa;
+  }
+  
+  .ant-table-cell {
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+  
+  .ant-btn-primary:hover,
+  .ant-btn-primary:focus {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  
